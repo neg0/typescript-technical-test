@@ -1,0 +1,29 @@
+{
+  "name": "technical-test-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neg0/typescript-technical-test.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Hadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neg0/typescript-technical-test/issues"
+  },
+  "homepage": "https://github.com/neg0/typescript-technical-test#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.4",
+    "@types/node": "^14.0.20",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.1",
+    "typescript": "^3.9.6"
+  }
+}
